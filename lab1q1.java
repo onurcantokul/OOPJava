@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //The program reads number of students and each students score from the user, computes the best score and assigns letter grades according to the following scale.
 
-public class ex1 {
+public class lab1q1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Please enter how many student do you enter? ");
