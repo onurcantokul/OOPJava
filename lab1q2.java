@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//The program creates an integer that asks user to enter array of size, asks user to enter elements of the array, asks user to enter "how many times will you shift" and shifts elements of the array to the right.
+//The program asks user to enter array of size, asks user to enter elements of the array, asks user to enter "how many times will you shift" and shifts elements of the array to the right.
 
 public class lab1q2 {
     public static void main(String[] args) {
